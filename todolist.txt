@@ -4,3 +4,4 @@
 
 Viet cai meo gi vao day
 
+Duoc viet tren altium de tao conflict voi doan du lieu bi thay doi tren git
